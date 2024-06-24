@@ -25,6 +25,12 @@
 <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira" height=60 />
 </span>
+
+## Insight of Languages I use
+<!--![](http://github-readme-streak-stats.herokuapp.com?user=TheLidren&theme=dark&background=apprentice)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheLidren&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheLidren&theme=apprentice)
+
 <!--
 **TheLidren/TheLidren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
