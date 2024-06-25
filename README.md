@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/DenverCoder1/readme-typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://skype.com)
-[![Rabota.by](https://img.shields.io/badge/rabota.by-rr?style=for-the-badge&labelColor=%23FF0000&color=%23FF0000)](https://rabota.by)
+[![Rabota.by](https://img.shields.io/badge/rabota-r?style=for-the-badge&label=HH&labelColor=%23FF0000&color=%23FF0000)](https://rabota.by)
 
 ## Language and Tools
 <span>
 <img src="https://cdn-icons-png.flaticon.com/128/2748/2748383.png" alt="Net core" title="Net core" height=60 />
 <img src="https://cdn-icons-png.flaticon.com/128/2306/2306019.png" alt="Asp.Net" title="Asp.Net" height=60 />
+<img src="https://cdn-icons-png.flaticon.com/128/15466/15466100.png" alt="WPF" title="WPF" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/Liquibase.svg" alt="Linq" title="Linq" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle DB" title="Oracle DB" height=60 />
