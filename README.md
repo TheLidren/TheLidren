@@ -1,11 +1,11 @@
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Vladislav)](https://git.io/typing-svg)</p>
 *Net/Asp.net Developer with 2+ years of development experience*
 
-В свободное время занимаюсь:
-- общением на английском с носителем языка;
-- изучением языка программирования C#;
-- чтением литературы (психология, личностный рост, бизнес-литература);
-- занятием спортом.
+In free time I'm interested:
+- studying foreign languages;
+- reading books (psychology, personal growth, business literature);
+- studying programming languages;
+- going a sports.
 <!--
 **TheLidren/TheLidren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
