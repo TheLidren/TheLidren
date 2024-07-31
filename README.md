@@ -10,8 +10,8 @@ In free time I'm interested:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheLidren)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/TheLidren)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micevichvlad180@gmail.com)
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/EbDaPhLnZruY)
 [![Rabota.by](https://img.shields.io/badge/rabota-r?style=for-the-badge&label=HH&labelColor=%23FF0000&color=%23FF0000)](https://rabota.by/resume/e3b9d857ff091808d10039ed1f5141416d684b)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/EbDaPhLnZruY)
 
 ## Language and Tools
 <span>
