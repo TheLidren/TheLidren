@@ -6,24 +6,12 @@ In free time I'm interested:
 - reading books (psychology, personal growth, business literature);
 - studying programming languages;
 - going a sports.
-<!--
-**TheLidren/TheLidren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/DenverCoder1/readme-typing-svg)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/DenverCoder1/readme-typing-svg)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://skype.com)
-[![Rabota.by](https://img.shields.io/badge/rabota-r?style=for-the-badge&label=HH&labelColor=%23FF0000&color=%23FF0000)](https://rabota.by)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheLidren)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/TheLidren)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micevichvlad180@gmail.com)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/EbDaPhLnZruY)
+[![Rabota.by](https://img.shields.io/badge/rabota-r?style=for-the-badge&label=HH&labelColor=%23FF0000&color=%23FF0000)](https://rabota.by/resume/e3b9d857ff091808d10039ed1f5141416d684b)
 
 ## Language and Tools
 <span>
