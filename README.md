@@ -31,6 +31,7 @@ In free time I'm interested:
 <img src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="Apache" title="Apache" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git" height=60 />
 <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira" height=60 />
+<img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" title="Linux" height=60 />
 </span>
 
 ## Insight of Languages I use
