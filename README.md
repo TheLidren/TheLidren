@@ -15,23 +15,24 @@ In free time I'm interested:
 
 ## Language and Tools
 <span>
-<img src="https://cdn-icons-png.flaticon.com/128/2748/2748383.png" alt="Net core" title="Net core" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/2306/2306019.png" alt="Asp.Net" title="Asp.Net" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/15466/15466100.png" alt="WPF" title="WPF" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/Liquibase.svg" alt="Linq" title="Linq" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle DB" title="Oracle DB" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/10125/10125183.png" alt="MySQL" title="MySQL" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="MS SQL" title="MS SQL" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" title="HTML5" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" title="CSS3" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/4726/4726005.png" alt="JS" title="JS" height=60 />
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" title="Bootstrap" height=60 />
-<img src="https://img.icons8.com/?size=100&id=55494&format=png&color=000000" alt="Markdown" title="Markdown" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="Apache" title="Apache" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git" height=60 />
-<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira" height=60 />
-<img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="Linux" title="Linux" height=60 />
+<img src="Images/Net_core.png" alt="Net core" title="Net core" height=60 />
+<img src="Images/ASP_NET.png" alt="Asp.Net" title="Asp.Net" height=60 />
+<img src="Images/WPF.png" alt="WPF" title="WPF" height=60 />
+<img src="Images/CSharp.png" alt="CSharp" title="CSharp" height=60 />
+<img src="Images/Linq.png" alt="Linq" title="Linq" height=60 />
+<img src="Images/Oracle.png" alt="Oracle DB" title="Oracle DB" height=60 />
+<img src="Images/MYSQL.png" alt="MySQL" title="MySQL" height=60 />
+<img src="Images/MS_SQL.png" alt="MS SQL" title="MS SQL" height=60 />
+<img src="Images/HTML5.png" alt="HTML5" title="HTML5" height=60 />
+<img src="Images/CSS3.png" alt="CSS3" title="CSS3" height=60 />
+<img src="Images/JS.png" alt="JS" title="JS" height=60 />
+<img src="Images/Bootstrap.png" alt="Bootstrap" title="Bootstrap" height=60 />
+  <!--https://img.icons8.com/?size=100&id=55494&format=png&color=000000 (MD)-->
+<img src="Images/Markdown.png" alt="Markdown" title="Markdown" height=60 />
+<img src="Images/Apache.png" alt="Apache" title="Apache" height=60 />
+<img src="Images/Git.png" alt="Git" title="Git" height=60 />
+<img src="Images/Jira.png" alt="Jira" title="Jira" height=60 />
+<img src="Images/Linux.png" alt="Linux" title="Linux" height=60 />
 </span>
 
 ## Insight of Languages I use
